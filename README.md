@@ -1,2 +1,3 @@
 # LearnJS
-Learn java script
+Learn java script and do challenge
+https://learn.javascript.ru/hello-world#tasks
